@@ -1,6 +1,6 @@
-# My Personal Naming Convention 📜
+# Maysara Code Style 🔥
 
-> **Why>**
+> **Why ?**
 >
 > I simply work on libraries that contain hundreds of files with thousands of lines and hundreds of functions 😔, and because this has become my way of life, these are the rules I will follow when writing any code from now on **_(Damn the rules of the world that don't suit me 😶)_**.
 
