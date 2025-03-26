@@ -1,6 +1,6 @@
 # My Personal Naming Convention 📜
 
-> **Why❓**
+> **Why>**
 >
 > I simply work on libraries that contain hundreds of files with thousands of lines and hundreds of functions 😔, and because this has become my way of life, these are the rules I will follow when writing any code from now on **_(Damn the rules of the world that don't suit me 😶)_**.
 
@@ -46,19 +46,26 @@
 
         ```zig
         /// Desc.
-        pub fn functionName(_argument, _argumentTwo) bool {
-            var _Local;
-            var _LocalVariable;
+        pub fn functionName(argument, argument_two) bool {
+            var local;
+            var local_variable;
 
-            if(..) |__res| {
-                if(..) |___resTwo| {
-                    ...
-                }
+            if(..) |res| {
+                ...
             }
 
             return false;
         }
         ```
----
 
-> Almost everyone has told me how ugly this style is, well it's like you've never seen anything this beautiful before, so it makes sense that it would be different _(bad)_ for you **But that doesn't mean it's bad for me**.
+<br>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/maysara-elshewehy/SuperZIG-assets/refs/heads/main/dist/img/md/line.png" alt="line" style="display: block; margin-top:20px;margin-bottom:20px;width:500px;"/>
+</div>
+
+<br>
+<div align="center">
+    <a href="https://github.com/maysara-elshewehy">
+        <img src="https://img.shields.io/badge/Made with ❤️ by-Maysara-orange"/>
+    </a>
+</div>
