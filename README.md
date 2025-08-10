@@ -152,7 +152,7 @@ Developed by [Maysara Elshewehy](https://github.com/maysara-elshewehy) for the [
 
             // Code goes here, indented by 4 spaces
 
-        // └──────────────────────────────────────────────────────────────────┘
+        // └────────────────────────────────────────────────────────────────────┘
         ```
 
     - ### 2.4 Common Section Types
